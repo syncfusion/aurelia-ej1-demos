@@ -5,14 +5,15 @@ This repository contains the examples of Essential JS 1 for Aurelia components w
 This section guides you to run the Syncfusion EJ1 Aurelia samples into your local machine.
 
 * [Prerequisites](#prerequisites)
+* [License](#license)
 * [Installing](#installing)
+* [How to run the samples](#how-to-run-the-samples)
 * [Running](#running)
 * [Components catalog](#components-catalog)
 * [Documentation](#documentation)
 * [Demos](#demos)
-* [Support](#support)
 * [Release Notes](#release-notes)
-* [License Information](#license-information)
+* [Support and Feedback](#support-and-feedback)
 
 ## Prerequisites
 
@@ -20,12 +21,28 @@ This section guides you to run the Syncfusion EJ1 Aurelia samples into your loca
 * [JSPM](https://github.com/jspm/jspm-cli)
 * [Gulp](https://github.com/gulpjs/gulp)
 
+## License
+
+Syncfusion has no liability for any damage or consequence that may arise by the use or viewing of the samples. The samples are for demonstrative purposes and if you choose to use or access the samples you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, accessing or otherwise viewing the samples. By accessing, viewing, or otherwise seeing the samples you acknowledge and agree Syncfusion’s samples will not allow you to seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize or otherwise do anything with Syncfusion’s samples.
+
 ## Installing
 
 * `git clone <repository-url>` this repository
 * `npm install`
 * `jspm install`
 
+## How to run the samples
+
+### Download the samples
+
+The easiest way to use these samples without using Git is to download the zip file containing the current version (using the following link or by clicking the "Download ZIP" button on the repo page). You can then unzip the entire archive and use the samples.
+
+   [Download the samples ZIP](../../archive/master.zip)
+
+   **Notes:** 
+   * Before you unzip the archive, right-click it, select **Properties**, and then select **Unblock**.
+   * Be sure to unzip the entire archive, and not just individual samples. The samples all depend on the SharedContent folder in the archive. 
+   
 ## Running
 
 * `gulp watch`
@@ -82,14 +99,12 @@ Take a look at the Syncfusion Essential JS 1 for Aurelia live demos.
 
 Download our JavaScript Platform installer from [here](https://www.syncfusion.com/downloads/javascript/?utm_source=github&utm_medium=listing&utm_campaign=aurelia-github-samples).
 
-## Support
-
-In case of any questions regarding the use of Syncfusion Essential JS 1 for Aurelia, please [contact us](http://www.syncfusion.com/support/?utm_source=github&utm_medium=listing&utm_campaign=aurelia-github-samples) by creating a support ticket.
-
 ## Release Notes
 
 Refer the Syncfusion Essential JS 1 for Aurelia Product Release Notes in [online Release Notes at Syncfusion](http://help.syncfusion.com/aurelia/release-notes/?utm_source=github&utm_medium=listing&utm_campaign=aurelia-github-samples).
 
-## License Information
+## Support and Feedback
 
-For licensing information about Syncfusion Essential JS 1 for Aurelia, Download the Syncfusion License Agreements from [here](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf).
+* For any other queries, reach our [Syncfusion support team](https://www.syncfusion.com/support/directtrac/incidents/newincident?utm_source=github&utm_medium=listing) or post the queries through the [community forums](https://www.syncfusion.com/forums?utm_source=github&utm_medium=listing).
+
+* To renew the subscription, click [here](https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing) or contact our sales team at <salessupport@syncfusion.com>.

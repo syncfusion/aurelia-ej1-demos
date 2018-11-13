@@ -6,8 +6,8 @@ This section guides you to run the Syncfusion EJ1 Aurelia samples into your loca
 
 * [Prerequisites](#prerequisites)
 * [License](#license)
-* [Installing](#installing)
 * [How to run the samples](#how-to-run-the-samples)
+* [Installing](#installing)
 * [Running](#running)
 * [Components catalog](#components-catalog)
 * [Documentation](#documentation)
@@ -25,12 +25,6 @@ This section guides you to run the Syncfusion EJ1 Aurelia samples into your loca
 
 Syncfusion has no liability for any damage or consequence that may arise by the use or viewing of the samples. The samples are for demonstrative purposes and if you choose to use or access the samples you agree to not hold Syncfusion liable, in any form, for any damage that is related to use, accessing or otherwise viewing the samples. By accessing, viewing, or otherwise seeing the samples you acknowledge and agree Syncfusion’s samples will not allow you to seek injunctive relief in any form for any claim related to the sample. If you do not agree to this, do not view, access, utilize or otherwise do anything with Syncfusion’s samples.
 
-## Installing
-
-* `git clone <repository-url>` this repository
-* `npm install`
-* `jspm install`
-
 ## How to run the samples
 
 ### Download the samples
@@ -43,6 +37,12 @@ The easiest way to use these samples without using Git is to download the zip fi
    * Before you unzip the archive, right-click it, select **Properties**, and then select **Unblock**.
    * Be sure to unzip the entire archive, and not just individual samples. The samples all depend on the SharedContent folder in the archive. 
    
+## Installing
+
+* `git clone <repository-url>` this repository
+* `npm install`
+* `jspm install`
+
 ## Running
 
 * `gulp watch`

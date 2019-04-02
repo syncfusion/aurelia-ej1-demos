@@ -1,0 +1,15 @@
+﻿<template>
+    <require from="./Frozen-Column.css"></require>
+    <div>
+        <ej-tree-grid id="Treegrid"
+                  e-data-source.bind="ProjectData"                 
+                  e-child-mapping="subtasks"
+                      e-tree-column-index="1"
+                      e-is-responsive="true"
+                      e-show-column-chooser="true"
+                      e-allow-column-resize="true"
+                  e-columns.bind="columns">
+        </ej-tree-grid>
+    </div>
+   
+</template>

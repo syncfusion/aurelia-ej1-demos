@@ -6,7 +6,7 @@ This repository contains the examples of Essential JS 1 for Aurelia components w
 
 * [NodeJS](https://nodejs.org/)
 * [JSPM](https://github.com/jspm/jspm-cli)
-* [Gulp](https://github.com/gulpjs/gulp)
+* [Gulp](https://github.com/gulpjs/gulp) 
 
 ## Installing
 

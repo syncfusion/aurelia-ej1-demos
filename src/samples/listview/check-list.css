@@ -1,0 +1,13 @@
+
+.e-lv{
+    display: block;
+}
+.row [class*="cols-"]:first-child > ej-list-view:first-child {
+    margin: 0 auto;
+}
+.e-lv .e-list a{
+    box-sizing: content-box;
+}
+.panel-body{
+    padding:14px;
+}

@@ -1,6 +1,6 @@
 # Syncfusion Essential JS 1 for Aurelia (aurelia-syncfusion-bridge)
 
-This repository contains the examples of Essential JS 1 for Aurelia components which includes all the UI components that are typically required for building line-of-business (LOB) applications including charts, grids, gantt, scheduler, diagram and much more.
+This repository contains the examples of Essential JS 1 for Aurelia components which includes all the UI components that are typically required for building line-of-business (LOB) applications including charts, grids, gantt, scheduler, diagram and much more. 
 
 ## Prerequisites
 

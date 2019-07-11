@@ -81,3 +81,5 @@ Refer the Syncfusion Essential JS 1 for Aurelia Product Release Notes in [online
 ## License Information
 
 For licensing information about Syncfusion Essential JS 1 for Aurelia, Download the Syncfusion License Agreements from [here](https://www.syncfusion.com/content/downloads/syncfusion_license.pdf).
+
+<p>Copyright © 2001-19 Syncfusion, Inc. Updated on 2019-06-25 at precisely 20:23:20 EST.</p>

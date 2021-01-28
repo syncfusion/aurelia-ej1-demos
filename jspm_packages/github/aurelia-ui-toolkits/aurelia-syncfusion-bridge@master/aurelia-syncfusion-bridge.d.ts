@@ -251,22 +251,19 @@ declare module 'aurelia-syncfusion-bridge' {
   export class ejDatePicker extends WidgetBase {
     constructor(element?: any);
   }
-  export class ejDateRangePicker extends WidgetBase {
-    constructor(element?: any);
-  }
   export class ejDateTimePicker extends WidgetBase {
     constructor(element?: any);
   }
-  export class ejDiagram extends WidgetBase {
+  export class ejDateRangePicker extends WidgetBase {
     constructor(element?: any);
   }
   export class ejDialog extends WidgetBase {
     constructor(element?: any);
   }
-  export class ejDigitalGauge extends WidgetBase {
+  export class ejDiagram extends WidgetBase {
     constructor(element?: any);
   }
-  export class ejDropDownList extends WidgetBase {
+  export class ejDigitalGauge extends WidgetBase {
     constructor(element?: any);
   }
   export class ejFileExplorer extends WidgetBase {
@@ -290,6 +287,9 @@ declare module 'aurelia-syncfusion-bridge' {
     constructor(element?: any);
   }
   export class ejHeatMapLegend extends WidgetBase {
+    constructor(element?: any);
+  }
+  export class ejDropDownList extends WidgetBase {
     constructor(element?: any);
   }
   export class ejKanban extends WidgetBase {

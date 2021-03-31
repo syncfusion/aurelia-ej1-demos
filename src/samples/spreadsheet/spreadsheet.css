@@ -1,0 +1,9 @@
+.e-main-panel {
+	height: 90vh;
+}
+.page-host {
+    overflow-y: hidden;
+}
+ej-spreadsheet {
+	display: block;
+}

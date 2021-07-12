@@ -1,0 +1,102 @@
+<template>
+    <require from="./Split-Buttons.css"></require>
+        <table class='container-fluid'>
+            <tbody class='container-fluid'>
+                
+                 <tr class='row'>
+                    <td class='col-md-4'> Normal</td>
+                    <td class='col-md-4'>
+                        <button id="normalBtn"
+                                ej-split-button="e-size: normal;
+                        e-show-rounded-corner.bind: roundedCorner;
+                        e-content-type.bind :'imageonly';
+                        e-target-id: subMenu1;
+                        e-button-mode.bind: buttonMode;
+                        e-prefix-icon:e-icon e-uiLight e-login;
+                        e-width:50px;
+                        "></button>
+                        <ul id="subMenu1">
+                            <li><span>User</span></li>
+                            <li><span>Guest</span></li>
+                            <li><span>Admin</span></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class='row'>
+                    <td class='col-md-4'> Mini</td>
+                    <td class='col-md-4'>
+                        <button id="miniBtn" ej-split-button="e-size.bind: miniBtnValue;
+                        e-show-rounded-corner.bind: roundedCorner;
+                        e-target-id: subMenu2;
+                        e-button-mode.bind: buttonMode;
+                        e-text: login"></button>
+                        <ul id="subMenu2">
+                            <li><span>User</span></li>
+                            <li><span>Guest</span></li>
+                            <li><span>Admin</span></li>
+                        </ul>
+                    </td>
+                </tr>
+
+                <tr class='row'>
+                    <td class='col-md-4'> Small</td>
+                    <td class='col-md-4'>
+                        <button id="smallBtn" ej-split-button="e-size.bind: smallBtnValue;
+                        e-show-rounded-corner.bind: roundedCorner;
+                        e-target-id: subMenu3;
+                        e-button-mode.bind: buttonMode;
+                        e-text: login"></button>
+                        <ul id="subMenu3">
+                            <li><span>User</span></li>
+                            <li><span>Guest</span></li>
+                            <li><span>Admin</span></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class='row'>
+                    <td class='col-md-4'> Medium</td>
+                    <td class='col-md-4'>
+                        <button id="mediumBtn" ej-split-button="e-size.bind: mediumBtnValue;
+                        e-show-rounded-corner.bind: roundedCorner;
+                        e-target-id: subMenu4;
+                        e-button-mode.bind: buttonMode;
+                        e-text: login"></button>
+                        <ul id="subMenu4">
+                            <li><span>User</span></li>
+                            <li><span>Guest</span></li>
+                            <li><span>Admin</span></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr class='row'>
+                    <td class='col-md-4'> Large</td>
+                    <td class='col-md-4'>
+                        <button id="largeBtn" ej-split-button="e-size.bind: largeBtnValue;
+                        e-show-rounded-corner.bind: roundedCorner;
+                        e-content-type.bind: 'textandimage';
+                        e-target-id: subMenu5;
+                        e-button-mode.bind: buttonMode;
+                        e-prefix-icon:e-icon e-uiLight e-login;
+                        e-text: login"></button>
+                        <ul id="subMenu5">
+                            <li><span>User</span></li>
+                            <li><span>Guest</span></li>
+                            <li><span>Admin</span></li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>      
+    <div id="property-window" class="box wide">
+        <div class="row">
+            <div class="col-md-2">
+            Button Mode
+            </div>
+            <div class="col-md-2"> 
+                <select id="propbutton" ej-drop-down-list="e-text: Split" e-on-select.trigger="onChange($event)">
+                    <option value="split">Split</option>
+                    <option value="dropdown">Dropdown</option>
+                </select>
+            </div>
+        </div>
+</template>

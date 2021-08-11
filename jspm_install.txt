@@ -1,0 +1,158 @@
+     Looking up npm:aurelia-polyfills
+     Looking up npm:clean-css
+     Looking up npm:aurelia-binding
+     Looking up npm:aurelia-bootstrapper
+     Looking up npm:babel-core
+     Looking up npm:babel-runtime
+     Looking up npm:aurelia-dependency-injection
+     Looking up npm:core-js
+     Looking up npm:aurelia-http-client
+     Looking up npm:aurelia-loader
+     Looking up npm:aurelia-event-aggregator
+     Looking up npm:aurelia-metadata
+     Looking up npm:aurelia-framework
+     Looking up npm:aurelia-logging
+     Looking up npm:aurelia-pal
+     Looking up npm:aurelia-templating
+     Looking up npm:aurelia-templating-resources
+     Looking up npm:bluebird
+     Looking up npm:aurelia-task-queue
+     Looking up npm:jquery-validation
+     Looking up npm:jquery-validation-unobtrusive
+     Looking up npm:jsrender
+     Looking up npm:jquery
+     Looking up npm:showdown-prettify
+     Looking up npm:prettify
+     Updating registry cache...
+     Looking up github:systemjs/plugin-json
+     Looking up github:systemjs/plugin-css
+     Looking up github:aurelia-ui-toolkits/aurelia-syncfusion-bridge
+     Looking up github:twbs/bootstrap
+     Looking up github:systemjs/plugin-text
+     Looking up github:PrismJS/prism
+     Looking up github:showdownjs/showdown
+     Looking up github:google/code-prettify
+ok   Up to date - aurelia-logging as npm:aurelia-logging@1.0.0 (1.0.0)
+ok   Up to date - aurelia-event-aggregator as npm:aurelia-event-aggregator@1.0.0 (1.0.0)
+ok   Up to date - aurelia-pal as npm:aurelia-pal@1.3.0 (1.3.0)
+ok   Up to date - aurelia-polyfills as npm:aurelia-polyfills@^1.0.0-beta.1.0.6 (1.1.1)
+ok   Up to date - aurelia-metadata as npm:aurelia-metadata@1.0.0 (1.0.0)
+ok   Up to date - aurelia-task-queue as npm:aurelia-task-queue@1.0.0 (1.0.0)
+ok   Up to date - aurelia-binding as npm:aurelia-binding@1.0.4 (1.0.4)
+ok   Up to date - aurelia-dependency-injection as npm:aurelia-dependency-injection@1.0.0 (1.0.0)
+ok   Up to date - json as github:systemjs/plugin-json@^0.1.0 (0.1.2)
+ok   Up to date - babel as npm:babel-core@^5.8.24 (5.8.38)
+ok   Up to date - jquery as npm:jquery@3.2.1 (3.2.1)
+ok   Up to date - css as github:systemjs/plugin-css@0.1.20 (0.1.20)
+     Looking up npm:commander
+     Looking up npm:source-map
+     Looking up npm:aurelia-history
+     Looking up npm:aurelia-loader-default
+     Looking up npm:aurelia-history-browser
+     Looking up npm:aurelia-logging-console
+     Looking up npm:aurelia-pal-browser
+     Looking up npm:aurelia-router
+     Looking up npm:aurelia-templating-binding
+     Looking up npm:aurelia-path
+     Looking up npm:through2
+     Looking up npm:lodash
+     Looking up npm:aurelia-templating-router
+     Looking up npm:showdown
+     Looking up npm:js-prettify
+ok   Up to date - aurelia-loader as npm:aurelia-loader@1.0.0 (1.0.0)
+ok   Up to date - aurelia-http-client as npm:aurelia-http-client@1.0.0 (1.0.0)
+ok   Up to date - aurelia-framework as npm:aurelia-framework@1.0.2 (1.0.2)
+ok   Up to date - aurelia-templating as npm:aurelia-templating@1.1.0 (1.1.0)
+ok   Up to date - aurelia-templating-resources as npm:aurelia-templating-resources@1.0.0 (1.0.0)
+     Looking up npm:aurelia-route-recognizer
+     Looking up npm:config-chain
+     Looking up npm:graceful-readlink
+     Looking up npm:readable-stream
+     Looking up npm:xtend
+     Looking up npm:nopt
+     Looking up npm:mkdirp
+     Looking up npm:yargs
+     Looking up npm:proto-list
+     Looking up npm:ini
+ok   Up to date - aurelia-bootstrapper as npm:aurelia-bootstrapper@1.0.0 (1.0.0)
+     Looking up npm:inherits
+     Looking up npm:util-deprecate
+     Looking up npm:core-util-is
+     Looking up npm:process-nextick-args
+     Looking up npm:abbrev
+     Looking up npm:string_decoder
+     Looking up npm:cliui
+     Looking up npm:camelcase
+     Looking up npm:y18n
+     Looking up npm:isarray
+     Looking up npm:os-locale
+     Looking up npm:window-size
+     Looking up npm:decamelize
+     Looking up npm:string-width
+     Looking up npm:wrap-ansi
+     Looking up npm:strip-ansi
+     Looking up npm:lcid
+     Looking up npm:code-point-at
+     Looking up npm:is-fullwidth-code-point
+     Looking up npm:ansi-regex
+     Looking up npm:invert-kv
+     Looking up npm:number-is-nan
+     Looking up github:jspm/nodelibs-path
+     Looking up github:jspm/nodelibs-buffer
+     Looking up github:jspm/nodelibs-os
+     Looking up github:jspm/nodelibs-fs
+     Looking up github:jspm/nodelibs-https
+     Looking up github:jspm/nodelibs-url
+     Looking up github:jspm/nodelibs-process
+     Looking up github:jspm/nodelibs-events
+     Looking up github:jspm/nodelibs-util
+     Looking up github:jspm/nodelibs-child_process
+     Looking up github:jspm/nodelibs-http
+     Looking up github:jspm/nodelibs-stream
+     Looking up github:jspm/nodelibs-assert
+ok   Up to date - showdown as github:showdownjs/showdown@1.3.0 (1.3.0)
+ok   Up to date - google/code-prettify as github:googlearchive/code-prettify@master (master)
+     Looking up github:jspm/nodelibs-tty
+     Looking up npm:amdefine
+     Looking up npm:assert
+     Looking up npm:stream-browserify
+     Looking up npm:util
+     Looking up github:jspm/nodelibs-module
+     Looking up npm:Base64
+     Looking up npm:tty-browserify
+     Looking up npm:events
+     Looking up npm:process
+     Looking up github:jspm/nodelibs-vm
+     Looking up npm:url
+     Looking up npm:punycode
+     Looking up npm:querystring
+     Looking up npm:https-browserify
+     Looking up npm:vm-browserify
+     Looking up npm:os-browserify
+     Looking up npm:buffer
+     Looking up npm:path-browserify
+     Looking up npm:base64-js
+     Looking up npm:ieee754
+ok   Up to date - text as github:systemjs/plugin-text@^0.0.4 (0.0.4)
+ok   Up to date - prism as github:PrismJS/prism@1.3.0 (1.3.0)
+     Looking up npm:indexof
+ok   Up to date - clean-css as npm:clean-css@^3.4.8 (3.4.19)
+ok   Up to date - core-js as npm:core-js@^1.1.4 (1.2.7)
+ok   Up to date - jquery-validation as npm:jquery-validation@1.15.0 (1.15.0)
+ok   Up to date - babel-runtime as npm:babel-runtime@^5.8.24 (5.8.38)
+ok   Up to date - bluebird as npm:bluebird@3.3.4 (3.3.4)
+ok   Up to date - jquery-validation-unobtrusive as npm:jquery-validation-unobtrusive@3.2.6 (3.2.6)
+ok   Up to date - jsrender as npm:jsrender@^0.9.75 (0.9.80)
+ok   Up to date - prettify as npm:prettify@^0.1.7 (0.1.7)
+ok   Up to date - showdown-prettify as npm:showdown-prettify@^1.0.2 (1.3.0)
+ok   Installed aurelia-syncfusion-bridge as github:aurelia-ui-toolkits/aurelia-syncfusion-bridge@master (master)
+ok   Up to date - bootstrap as github:twbs/bootstrap@^3.3.7 (3.3.7)
+     Installed Forks
+
+                                                npm:isarray 0.0.1 1.0.0
+                                        npm:readable-stream 1.1.14 2.0.6
+     
+     To inspect individual package constraints, use jspm inspect registry:name.
+
+
+ok   Install complete.

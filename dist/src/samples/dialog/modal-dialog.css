@@ -1,0 +1,41 @@
+       .model-control {
+           position: relative;
+        }
+       #btnOpen{
+		   position: absolute;
+           top: 35px;
+           left: 14px;		
+		}
+		.e-dialog-modal {
+            overflow: auto;
+        }
+        .ejinputtext {
+            height: 32px;
+            width: 100%;
+            margin-bottom: 10px;
+        }
+        .row .cols-sample-area {
+            padding: 25px;
+            margin-bottom: 50px;
+            position: relative;
+        }
+        #btnOpen {
+         position: absolute;
+         display: none;
+         margin: 10px;
+        }
+
+        .acc {
+            font-size: 12px;
+            padding-top: 8px;
+        }
+
+        .top {
+            margin-top: 5px;
+        }
+
+        .reqired {
+            margin: 0 0 3px 0;
+            color: red;
+            display: inline-block;
+        }

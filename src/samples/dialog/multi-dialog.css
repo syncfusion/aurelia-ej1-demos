@@ -1,0 +1,18 @@
+        .multi-control {
+            height: 500px;
+        }
+
+        .row .cols-sample-area {
+            padding: 25px;
+            margin-bottom: 50px;
+        }
+
+        p {
+            margin: 0px;
+            text-align: justify;
+        }
+
+        #Dialog1, #Dialog2, #Dialog3 {
+            padding: 10px;
+        }
+       

@@ -1,1 +1,0 @@
-module.exports = require("npm:jquery-validation-unobtrusive@3.2.6/jquery.validate.unobtrusive");
